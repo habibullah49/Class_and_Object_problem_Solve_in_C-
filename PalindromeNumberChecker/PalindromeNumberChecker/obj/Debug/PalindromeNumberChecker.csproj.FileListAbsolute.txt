@@ -1,0 +1,6 @@
+G:\C# AND ASP.NET\OOP\Object And Class\PalindromeNumberChecker\PalindromeNumberChecker\bin\Debug\PalindromeNumberChecker.exe.config
+G:\C# AND ASP.NET\OOP\Object And Class\PalindromeNumberChecker\PalindromeNumberChecker\bin\Debug\PalindromeNumberChecker.exe
+G:\C# AND ASP.NET\OOP\Object And Class\PalindromeNumberChecker\PalindromeNumberChecker\bin\Debug\PalindromeNumberChecker.pdb
+G:\C# AND ASP.NET\OOP\Object And Class\PalindromeNumberChecker\PalindromeNumberChecker\obj\Debug\PalindromeNumberChecker.csprojResolveAssemblyReference.cache
+G:\C# AND ASP.NET\OOP\Object And Class\PalindromeNumberChecker\PalindromeNumberChecker\obj\Debug\PalindromeNumberChecker.exe
+G:\C# AND ASP.NET\OOP\Object And Class\PalindromeNumberChecker\PalindromeNumberChecker\obj\Debug\PalindromeNumberChecker.pdb

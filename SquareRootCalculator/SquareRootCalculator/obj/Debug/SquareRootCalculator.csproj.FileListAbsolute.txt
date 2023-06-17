@@ -1,0 +1,5 @@
+G:\C# AND ASP.NET\OOP\Object And Class\SquareRootCalculator\SquareRootCalculator\bin\Debug\SquareRootCalculator.exe.config
+G:\C# AND ASP.NET\OOP\Object And Class\SquareRootCalculator\SquareRootCalculator\bin\Debug\SquareRootCalculator.exe
+G:\C# AND ASP.NET\OOP\Object And Class\SquareRootCalculator\SquareRootCalculator\bin\Debug\SquareRootCalculator.pdb
+G:\C# AND ASP.NET\OOP\Object And Class\SquareRootCalculator\SquareRootCalculator\obj\Debug\SquareRootCalculator.exe
+G:\C# AND ASP.NET\OOP\Object And Class\SquareRootCalculator\SquareRootCalculator\obj\Debug\SquareRootCalculator.pdb

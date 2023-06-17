@@ -1,0 +1,5 @@
+G:\C# AND ASP.NET\OOP\Object And Class\MinimumNumberFinder\MinimumNumberFinder\bin\Debug\MinimumNumberFinder.exe.config
+G:\C# AND ASP.NET\OOP\Object And Class\MinimumNumberFinder\MinimumNumberFinder\bin\Debug\MinimumNumberFinder.exe
+G:\C# AND ASP.NET\OOP\Object And Class\MinimumNumberFinder\MinimumNumberFinder\bin\Debug\MinimumNumberFinder.pdb
+G:\C# AND ASP.NET\OOP\Object And Class\MinimumNumberFinder\MinimumNumberFinder\obj\Debug\MinimumNumberFinder.exe
+G:\C# AND ASP.NET\OOP\Object And Class\MinimumNumberFinder\MinimumNumberFinder\obj\Debug\MinimumNumberFinder.pdb

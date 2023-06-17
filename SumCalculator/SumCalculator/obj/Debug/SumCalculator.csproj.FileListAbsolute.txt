@@ -1,0 +1,6 @@
+G:\C# AND ASP.NET\OOP\Object And Class\SumCalculator\SumCalculator\bin\Debug\SumCalculator.exe.config
+G:\C# AND ASP.NET\OOP\Object And Class\SumCalculator\SumCalculator\bin\Debug\SumCalculator.exe
+G:\C# AND ASP.NET\OOP\Object And Class\SumCalculator\SumCalculator\bin\Debug\SumCalculator.pdb
+G:\C# AND ASP.NET\OOP\Object And Class\SumCalculator\SumCalculator\obj\Debug\SumCalculator.csprojResolveAssemblyReference.cache
+G:\C# AND ASP.NET\OOP\Object And Class\SumCalculator\SumCalculator\obj\Debug\SumCalculator.exe
+G:\C# AND ASP.NET\OOP\Object And Class\SumCalculator\SumCalculator\obj\Debug\SumCalculator.pdb
